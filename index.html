@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>纯黄色页面</title>
+    <style>
+      body {
+        background-color: yellow;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+  </body>
+</html>
